@@ -9,3 +9,7 @@ The [applications](applications) section contain application cases for <b>HardCo
 ## Licensing
 
 All content presented here is published under terms of [CC0 1.0 Universal](LICENSE) license.
+
+## Contacts
+
+Contacts are [here](contacts.md)
