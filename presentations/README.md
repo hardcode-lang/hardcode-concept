@@ -21,3 +21,7 @@ The presentation contains a lot of source code snippets, technical concepts and 
 ## Buisness summary
 
 The [buisness summary presentation](summary.pdf) covers general buisness-plan for product development and service monetization.
+
+## Primary buisness presentation
+
+The [buisness presentation](business.pdf) covers most business-related issues.
